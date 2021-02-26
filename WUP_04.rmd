@@ -73,3 +73,5 @@ Lt high school and graduate are statistically different. High School and graduat
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+This answer the question is yes there is a difference in WORDSUM test performance and DEGREE. Due to the plots and data it shows that graduate students did better than Lt high students students and in all other schools there is no differences.
